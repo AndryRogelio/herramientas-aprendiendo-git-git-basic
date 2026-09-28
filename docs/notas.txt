@@ -1,0 +1,3 @@
+Notas del proyecto:
+- Inicialización del repositorio completada.
+- Estructura base de documentación.
