@@ -12,3 +12,6 @@ Este es mi primer proyecto usando Git. Aquí aprenderé el flujo de trabajo esen
 
 ## Información del proyecto
 Versión estable desde main con arquitectura y especificaciones oficiales.
+Versión experimental desde la rama feature/conflicto-simulado con módulos avanzados.
+
+Información del proyecto consolidada: integración armoniosa entre main y rama feature experimental sin conflictos residuales.
