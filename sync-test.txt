@@ -1,0 +1,2 @@
+Archivo de prueba de sincronización con GitHub.
+Demostración de flujo continuo con git pull, git push y sincronización de cambios.
