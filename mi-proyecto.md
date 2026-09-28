@@ -9,3 +9,6 @@ Este es mi primer proyecto usando Git. Aquí aprenderé el flujo de trabajo esen
 
 ## Sincronización con GitHub
 - Última actualización sincronizada exitosamente con el repositorio remoto de GitHub.
+
+## Información del proyecto
+Versión estable desde main con arquitectura y especificaciones oficiales.
